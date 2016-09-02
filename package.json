@@ -1,7 +1,7 @@
 {
   "name": "dgp-api-javascript",
   "description": "Dgp JavaScript API",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "git@github.com:lievenvg/dgp-api-javascript.git"

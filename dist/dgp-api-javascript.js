@@ -9,7 +9,7 @@
 		dgpApi = {};
 	}
 
-	dgpApi.VERSION = '1.0.1';
+	dgpApi.VERSION = '0.2.0';
 
 	dgpApi.util = {
 		getCurrentURL: function () {
@@ -161,7 +161,7 @@
 			mobileAutoClose:true,
 			menuStr:'aside[data-dgp-nav-aside]',
 			activeCss:'active',
-			topNav:'nav.nav-top',
+			topNav:'nav.navbar',
 			subActive:'has-active-item',
 			openCss:'open',
 			accordion:true,
